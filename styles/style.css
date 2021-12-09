@@ -20,7 +20,7 @@
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
+.table__cell_theme_dark{
   width: 200px;
   color: white;
   margin-right: 0;
@@ -28,6 +28,7 @@
   list-style-type: none;
   padding-left: 0;
   z-index: 1;
+  margin-bottom: 0;
 }
 .logo_place_header{
   position: absolute;
@@ -257,14 +258,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-}
-.table__cell_theme_dark{
-  list-style-type: none;
-  padding-left: 0;
-  z-index: 1;
-  width: 200px;
-  margin-top: 80px;
-  margin-bottom: 0;
 }
 .table__heading_theme_dark{
   line-height: 1.15;
