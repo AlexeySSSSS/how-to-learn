@@ -25,6 +25,9 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  list-style-type: none;
+  padding-left: 0;
+  z-index: 1;
 }
 .logo_place_header{
   position: absolute;
