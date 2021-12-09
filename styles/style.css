@@ -20,16 +20,6 @@
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark{
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  list-style-type: none;
-  padding-left: 0;
-  z-index: 1;
-  margin-bottom: 0;
-}
 .logo_place_header{
   position: absolute;
   top: 30px;
@@ -249,6 +239,16 @@
   font-size: 24px;
   font-weight: normal;
   color: white;
+}
+.table__cell_theme_dark{
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+  list-style-type: none;
+  padding-left: 0;
+  z-index: 1;
+  margin-bottom: 0;
 }
 .table_theme_dark{
   margin-bottom: 90px;
