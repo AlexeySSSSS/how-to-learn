@@ -1,0 +1,7 @@
+.video__iframes{
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  max-height: 260px;
+  z-index: 1;
+}
