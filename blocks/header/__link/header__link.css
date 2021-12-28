@@ -4,8 +4,8 @@
   font-size: 18px;
   color: #2f80ed;
   text-decoration: none;
+  transition: ease-in 1s;
 }
 .header__link:hover{
   opacity: 0.33;
-  transition: ease-in 1s;
 }
