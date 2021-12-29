@@ -402,6 +402,13 @@
     font-weight: bold;
     margin-bottom: 0;
   }
+  .table__cell{
+    padding-left: 0;
+    list-style-type: none;
+    width: 250px;
+    margin-top: 60px;
+    margin-bottom: 0;
+  }
   .table__cell_theme_dark{
     width: 200px;
     color: white;
@@ -410,13 +417,6 @@
     list-style-type: none;
     padding-left: 0;
     z-index: 1;
-    margin-bottom: 0;
-  }
-  .table__cell{
-    padding-left: 0;
-    list-style-type: none;
-    width: 250px;
-    margin-top: 60px;
     margin-bottom: 0;
   }
   .table__heading_theme_dark{
